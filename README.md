@@ -1,2 +1,4 @@
 # hello-world
-New Ideas
+This is new to me
+I need something new
+Here we go!
